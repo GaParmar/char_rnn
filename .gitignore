@@ -1,2 +1,8 @@
 #ignore the dataset folder
 /dataset
+
+# ignore the compiles python
+*.pyc
+
+# ignore the pkl files
+*.pkl
